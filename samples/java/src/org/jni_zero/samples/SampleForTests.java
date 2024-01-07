@@ -62,7 +62,7 @@ class SampleForTests {
 
     public void finishExample() {
         // We're done, so let's destroy nativePtr object.
-        SampleForTestsJni.get().destroy(mNativeCPPObject, this);
+        // SampleForTestsJni.get().destroy(mNativeCPPObject, this);
     }
 
     // ---------------------------------------------------------------------------------------------
