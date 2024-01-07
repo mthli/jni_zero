@@ -8,6 +8,7 @@
 #include <jni.h>
 #include <stddef.h>
 
+#include <iterator>
 #include <type_traits>
 #include <utility>
 
