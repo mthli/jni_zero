@@ -9,7 +9,7 @@
 
 #include <string>
 
-#include "third_party/jni_zero/jni_export.h"
+#include "jni_export.h"
 
 namespace jni_zero {
 // Attaches the current thread to the VM (if necessary) and return the JNIEnv*.

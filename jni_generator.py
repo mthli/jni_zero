@@ -515,7 +515,7 @@ class InlHeaderFileGenerator(object):
 
 #include <jni.h>
 
-#include "third_party/jni_zero/jni_export.h"
+#include "jni_export.h"
 ${INCLUDES}
 
 // Step 1: Forward declarations.

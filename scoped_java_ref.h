@@ -11,8 +11,8 @@
 #include <type_traits>
 #include <utility>
 
-#include "third_party/jni_zero/jni_export.h"
-#include "third_party/jni_zero/logging.h"
+#include "jni_export.h"
+#include "logging.h"
 
 namespace jni_zero {
 

@@ -2,11 +2,11 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#include "third_party/jni_zero/core.h"
+#include "core.h"
 
 #include <sys/prctl.h>
 
-#include "third_party/jni_zero/logging.h"
+#include "logging.h"
 
 namespace jni_zero {
 namespace {

@@ -5,7 +5,7 @@
 #ifndef JNI_ZERO_LOGGING_H_
 #define JNI_ZERO_LOGGING_H_
 
-#include "third_party/jni_zero/jni_export.h"
+#include "jni_export.h"
 
 #if defined(NDEBUG) && !defined(DCHECK_ALWAYS_ON)
 #define JNI_ZERO_DCHECK_IS_ON() false

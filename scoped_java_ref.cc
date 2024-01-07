@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#include "third_party/jni_zero/scoped_java_ref.h"
+#include "scoped_java_ref.h"
 
-#include "third_party/jni_zero/core.h"
+#include "core.h"
 
 namespace jni_zero {
 namespace {

@@ -432,9 +432,9 @@ def CreateFromDict(options, registration_dict):
 
 #include <iterator>
 
-#include "third_party/jni_zero/jni_export.h"
-#include "third_party/jni_zero/jni_int_wrapper.h"
-#include "third_party/jni_zero/jni_zero_helper.h"
+#include "jni_export.h"
+#include "jni_int_wrapper.h"
+#include "jni_zero_helper.h"
 
 
 // Step 1: Forward declarations (classes).
